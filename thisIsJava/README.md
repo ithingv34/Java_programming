@@ -52,15 +52,10 @@
 
 ---
 
-#### 조건문과 반복문
-  - [] [코드 실행 흐름 제어]()
-  - [] [if 문]()
-  - [] [switch 문]()
-  - [] [for 문]()
-  - [] [while 문]()
-  - [] [do-while 문]()
-  - [] [break 문]()
-  - [] [continue 문]()
+#### 3. 조건문과 반복문
+  - [X] [3-1. switch 문](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_3/src/Switch.java)
+    - [3-1-1. Java 12 버전 이후](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_3) 
+  - [X] [3-2. do-while 문](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_3)
 
 ---
 
