@@ -23,19 +23,17 @@
 5. 특정 os에서 동작하는 jvm을 구동하고 os에서 실행할 수 있는 기계어로 번역 후 main() 메소드를 찾아 메소드 블록을 실행시킨다.
 
 #### [1.변수와 타입]()
-  - [] [1-1.변수 선언](./Chapter1/README.md)
-  - [] [1-2.정수 타입](./Chapter_1/src/IntegerLiteral.java)
-  - [] [1-3.문자 타입](./Chapter_1/src/StringLiteral.java)
-  - [] [1-4.실수 타입]()
-  - [] [1.5.논리 타입]()
-  - [] [1.6.문자열 타입]()
-  - [] [1.7.자동 타입 변환]()
-  - [] [1.8.강제 타입 변환]()
-  - [] [1.9.연산식에서 자동 타입 변환]()
-  - [] [1.10.문자열을 기본 타입으로 변환]()
-  - [] [1.11.변수 사용 범위]()
-  - [] [1.12.콘솔로 변수 출력]()
-  - [] [1.13.키보드 입력 데이터를 변수에 저장]()
+  - [X] [1-1.변수 선언](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_1)
+  - [X] [1-2.정수 타입](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/IntegerLiteral.java)
+  - [X] [1-3.문자 타입](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/StringLiteral.java)
+  - [X] [1-4.실수 타입](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/RealNumberLiteral.java)
+  - [X] [1.5.문자열 타입](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/StringLiteral.java)
+  - [X] [1.6.자동 타입 변환](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/AutoCasting.java)
+  - [X] [1.7.강제 타입 변환](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/ForcedTypeConversion.java)
+  - [X] [1.8.연산식에서 자동 타입 변환](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_1)
+  - [X] [1.9.문자열을 기본 타입으로 변환](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_1)
+  - [X] [1.10.콘솔로 변수 출력](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/ConsolePrint.java)
+  - [X] [1.11.키보드 입력 데이터를 변수에 저장](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/ScannerVariable.java)
 
 ---
 
