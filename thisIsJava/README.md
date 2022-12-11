@@ -2,7 +2,7 @@
 
 ## [이것이 자바다]()
 
-자바의 장점
+**자바의 장점**
 - 모든 운영체제에서 실행이 가능하다.
   - 자바로 작성된 프로그램은 운영체제와 상관없이 모두 실행되기 때문에 윈도우에서 개발된 프로그램을 맥OS나 리눅스에서 실행할 수 있다는 장점이 있다.
 - 객체 지향 프로그래밍
@@ -10,18 +10,19 @@
 - 메모리 자동 관리
   - 자바는 메모리를 자동 관리하므로, 개발자는 메모리 관리의 수고를 덜어 기능 개발에 집중할 수 있다.
 
-자바 가상머신
+**자바 가상머신**
 
 바이트 코드 파일(~.class)을 특정 운영체제가 이해하는 기계어로 번역하고 실행시키는 명령어는 java이다. java 명령어는 JDK와 함께 설치된 JVM을 구동시켜 바이트 코드 파일을 완전한 기계어로 변역하고 실행시킨다.
 바이트 코드 파일은 운영체제와 상관없이 모두 동일한 내용으로 생성되지만, JVM은 운영체제에서 이해하는 기계어로 번역해야 하므로 OS별로 다르게 설치된다. 그래서 운영체제 별로 설치하는 JDK가 다르다.
 
-자바 프로그램 개발 과정
+**자바 프로그램 개발 과정**
 1. 소스 코드 작성
 2. javac.exe로 바이트코드 파일을 생성(.class)
 3. 바이트코드 파일(.class)  // bin 디렉토리에 패키지 디렉토리와 함께 저장된다. 
 4. java.exe로 JVM을 구동시킨다.
 5. 특정 os에서 동작하는 jvm을 구동하고 os에서 실행할 수 있는 기계어로 번역 후 main() 메소드를 찾아 메소드 블록을 실행시킨다.
 
+---
 #### [1.변수와 타입]()
   - [X] [1-1.변수 선언](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_1)
   - [X] [1-2.정수 타입](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/IntegerLiteral.java)
@@ -37,19 +38,17 @@
 
 ---
 
-#### 연산자
-  - [] [부호/증감 연산자]()
-  - [] [산술 연산자]()
-  - [] [오버플로우와 언더플로우]()
-  - [] [정확한 계싼은 정수 연산으로]()
-  - [] [나눗셈 연산 후 Nan과 Infinity 처리]()
-  - [] [비교 연산자]()
-  - [] [논리 연산자]()
-  - [] [비트 논리 연산자]()
-  - [] [비트 이동 연산자]()
-  - [] [대입 연산자]()
-  - [] [삼항 연산자]()
-  - [] [연산자 방향과 우선순위]()
+#### 2. 연산자
+  - [X] [2.1. 부호/증감 연산자](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
+  - [X] [2.2. 산술 연산자](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
+  - [X] [2.3. 오버플로우와 언더플로우](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
+  - [X] [2.4. 정확한 계산은 정수 연산으로](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
+  - [X] [2.5. 나눗셈 연산 후 Nan과 Infinity 처리](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
+  - [X] [2.6. 비교 연산자](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
+  - [X] [2.7. 논리 연산자](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
+  - [X] [2.8. 비트 논리 연산자](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2/src/BitLogic.java)
+  - [X] [2.9. 비트 이동 연산자](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2/src/BitShift.java)
+  - [X] [2.10. 삼항 연산자](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_2)
 
 ---
 
