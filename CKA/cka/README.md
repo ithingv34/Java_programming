@@ -1,17 +1,16 @@
 # Certified Kubernetes Administrator(CKA) Study Guide
 
-<h3>CKA 자격 시험 준비를 위한 공부자료를 정리한 문서입니다. 🙌 </h3>
+<h3>CKA 자격 시험 준비를 위해 공부한 내용을 정리한 문서입니다. 🙌 </h3>
 
 ---
 ### [CKA란?](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
 <img src="../cka/images/1-2.png">
 
----
+### 시험 목적
+- 쿠버네티스 클러스터 설치, 유지관리, 업그레이드 및 문제 해결에 대한 실무적인 능력을 검증한다.
+- 쿠버네티스 환경에서 클라우드 네이티브 애플리케이션을 실행, 노출 및 확장하는데 일반적으로 사용되는 쿠버네티스 리소스 유형을 이해할 수 있다.
 
-- Certified Kubernetes Administrator의 약자
-- Kubernetes 기반 시스템을 운영/관리할 수 있는 지식 및 기술을 평가
-- Kubernetes 관리자
 
 ### 시험 정보
 - kubernetes v1.25 (2022.12월 기준)
@@ -19,11 +18,6 @@
 - 2시간 동안 진행된다.
 - 별도로 시험장이 존재하지 않음.
 웹캠과 별도의 시험 환경만 준비되면 응시 가능.
-
-### 출제 기준
-- Kubernetes 클러스터를 다루는 방법을 알고 할 수 있는지?
-- Kubernetes 리소스를 다루는 방법을 알고 할 수 있는지?
-- Kubernetes 리소스 에러에 대해 TroubleShooting이 가능한지?
 
 ### 출제 유형
 

@@ -17,11 +17,6 @@ module.exports = {
         children: getFilesOf('docs/CKA'),
       },
       {
-        title: 'Kubernetes',
-        path: '/docs/Kubernetes/',
-        children: getFilesOf('docs/Kubernetes'),
-      },
-      {
         title: 'ClusterArchitecture',
         path: '/docs/ClusterArchitecture/',
         children: getFilesOf('docs/ClusterArchitecture'),
@@ -51,6 +46,6 @@ module.exports = {
     repoLabel: 'GitHub',
     editLinks: true,
     docsBranch: 'master',
-    editLinkText: 'Edit this page🙌!',
+    editLinkText: '잘못된 부분이 있다면 수정해주세요🙌!',
   },
 };
