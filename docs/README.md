@@ -1,5 +1,8 @@
 # Java
 
+<img src="./images/img1.png" style="margin-top: 1rem; margin-bottom: 1rem; width: 300px; height: 200px;">
+
+
 **자바의 장점**
 - 모든 운영체제에서 실행이 가능하다.
   - 자바로 작성된 프로그램은 운영체제와 상관없이 모두 실행되기 때문에 윈도우에서 개발된 프로그램을 맥OS나 리눅스에서 실행할 수 있다는 장점이 있다.
