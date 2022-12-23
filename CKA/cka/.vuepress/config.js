@@ -1,7 +1,7 @@
 const { getFilesOf } = require('./util.js');
 
 module.exports = {
-  base: '/cka/',
+  base: '/Reading/',
   assetsPublicPath: '/',
   title: " Certified Kubernetes Administrator (CKA)",
   plugins: ['@vuepress/last-updated'],
