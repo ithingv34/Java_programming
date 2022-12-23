@@ -3,14 +3,14 @@ const { getFilesOf } = require('./util.js');
 module.exports = {
   base: '/java_programming/',
   assetsPublicPath: '/',
-  title: "Java 프로그래밍 개념 & 코드",
+  title: "Java Programming Concept & Code",
   plugins: ['@vuepress/last-updated'],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' }
     ],
     sidebar: [
-      ['/', 'Java Programming'],
+      ['/', 'Java'],
       {
         title: '변수',
         path: '/src/Chapter_1/',
