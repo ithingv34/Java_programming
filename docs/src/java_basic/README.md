@@ -1,6 +1,4 @@
-# Java
-
-<img src="./images/img1.png" style="margin-top: 1rem; margin-bottom: 1rem; width: 300px; height: 200px;">
+# 소개 및 목차
 
 
 **자바의 장점**
@@ -24,7 +22,8 @@
 5. 특정 os에서 동작하는 jvm을 구동하고 os에서 실행할 수 있는 기계어로 번역 후 main() 메소드를 찾아 메소드 블록을 실행시킨다.
 
 ---
-#### [1.변수와 타입]()
+
+#### 1.변수와 타입
   - [1-1.변수 선언](https://github.com/ithingv34/Reading/tree/thisIsJava/thisIsJava/Chapter_1)
   - [1-2.정수 타입](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/IntegerLiteral.java)
   - [1-3.문자 타입](https://github.com/ithingv34/Reading/blob/thisIsJava/thisIsJava/Chapter_1/src/StringLiteral.java)
