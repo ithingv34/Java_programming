@@ -1,6 +1,9 @@
 # 소개 및 목차
 
+**자바 기본 개념**
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3ec27036-48db-4673-8d1f-f956723f81d8%2FUntitled.png?table=block&id=bb2c7856-8cd3-4b5a-8a2a-4f861fa5659d&spaceId=19df36b8-17d5-4912-a1cf-0874ad632855&width=2000&userId=71f91cc9-adf1-4eb7-ad36-c49e63ea8af4&cache=v2" style="margin: 30px 0">
 
+---
 **자바의 장점**
 - 모든 운영체제에서 실행이 가능하다.
   - 자바로 작성된 프로그램은 운영체제와 상관없이 모두 실행되기 때문에 윈도우에서 개발된 프로그램을 맥OS나 리눅스에서 실행할 수 있다는 장점이 있다.
