@@ -57,6 +57,10 @@ module.exports = {
       {
         text: 'Testing',
         link: '/testing/'
+      },
+      {
+        text: 'Github',
+        link: 'https://github.com/ithingv34/java_backend/'
       }
     ],
     sidebar: {

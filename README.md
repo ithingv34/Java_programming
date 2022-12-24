@@ -1,3 +1,3 @@
 # Java Programming
 
-https://ithingv34.github.io/java_programming/
+https://ithingv34.github.io/java_backend/
