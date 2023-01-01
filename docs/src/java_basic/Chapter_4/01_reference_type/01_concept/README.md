@@ -356,5 +356,5 @@ Week reservationDay;
 
 Week today = Week.SUNDAY;
 Week reservationDay = null; // 참조타입이므로 null값을 대입할 수 있다.
-``
+```
 
